@@ -1,0 +1,136 @@
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.exe.config
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product_Classification.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.csproj.GenerateResource.Cache
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.dll.config
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.exe
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.pdb
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Controls.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Statistics.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.Math.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ZedGraph.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Controls.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Statistics.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.Math.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ZedGraph.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\de\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\es\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\fr\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\hu\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\it\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ja\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\pt\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ru\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\sk\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\sv\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\tr\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.exe
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.pdb
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product_Classification.Form1.resources
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\CsvHelper.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\System.ValueTuple.dll
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\CsvHelper.xml
+E:\FAST WORK\Visual C# Projects\Product Classification\Product Classification\bin\Debug\System.ValueTuple.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Product Classification.exe.config
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product Classification.exe
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product Classification.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.dll.config
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Product Classification.exe
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Product Classification.pdb
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Controls.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Math.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Statistics.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\AForge.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\AForge.Math.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\CsvHelper.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\System.ValueTuple.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\ZedGraph.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Controls.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Math.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\Accord.Statistics.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\AForge.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\AForge.Math.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\CsvHelper.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\System.ValueTuple.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\ZedGraph.xml
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\de\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\es\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\fr\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\hu\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\it\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\ja\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\pt\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\ru\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\sk\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\sv\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\tr\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product Classification.csprojResolveAssemblyReference.cache
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product_Classification.Form1.resources
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product_Classification.Properties.Resources.resources
+E:\FAST WORK\Visual C# Projects\Backup\Product Classification\Product Classification\obj\Debug\Product Classification.csproj.GenerateResource.Cache
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.dll.config
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.exe.config
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.exe
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Product Classification.pdb
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Controls.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Statistics.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.Math.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\CsvHelper.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\System.ValueTuple.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ZedGraph.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Controls.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.MachineLearning.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Math.Core.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\Accord.Statistics.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\AForge.Math.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\CsvHelper.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\System.ValueTuple.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ZedGraph.xml
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\de\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\es\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\fr\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\hu\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\it\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ja\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\pt\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\ru\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\sk\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\sv\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\tr\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.csprojAssemblyReference.cache
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product_Classification.Form1.resources
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product_Classification.Properties.Resources.resources
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.csproj.GenerateResource.cache
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.csproj.CopyComplete
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.exe
+E:\Programs\Visual C# Projects\Product Classification\Product Classification\obj\Debug\Product Classification.pdb
